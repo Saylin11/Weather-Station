@@ -23,7 +23,7 @@ wind_speed, wind_dir = None, None
 sensors = [wind_speed, wind_dir]
 
 # PI Web API definitions
-base_url = 'https://tugvls08.za.sappi.com/piwebapi/streams/'
+base_url = 'https://***'
 webID_wind_speed =  'F1DPqtKYo_aVKU65kQXapRFORQk6YAAAVFVHVkxTMThcU1lTVDpPVVRET09SX1dJTkRTUEVFRA'
 webID_wind_dir = 'F1DPqtKYo_aVKU65kQXapRFORQmkYAAAVFVHVkxTMThcU1lTVDpPVVRET09SX1dJTkRESVJFQ1RJT04'
 webID_wind_flag =  'F1DPqtKYo_aVKU65kQXapRFORQl6YAAAVFVHVkxTMThcU1lTVDpSQVNQX1BJX1dFQVRIRVJfVF19TRU5TT1I'
