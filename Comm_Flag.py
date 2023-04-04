@@ -11,7 +11,7 @@ import urllib3
 urllib3.disable_warnings()
 
 # PI Web API definitions
-base_url = 'https://tugvls08.za.sappi.com/piwebapi/streams/'
+base_url = 'https://***'
 webID_flag = 'F1DPqtKYo_aVKU65kQXapRFORQraUAAAVFVHVkxTMThcU1lTVDpSQVNQX1BJX1dFQVRIRVJfTEFO'
 
 # Post to PI ***********************************************************
