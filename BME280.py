@@ -25,7 +25,7 @@ OutTemp, pressure, humidity  = None, None, None
 sensors = [OutTemp, pressure, humidity]
 
 # PI Web API definitions
-base_url = 'https://tugvls08.za.sappi.com/piwebapi/streams/'
+base_url = 'https://***'
 webID_OutTemp =  'F1DPqtKYo_aVKU65kQXapRFORQqKUAAAVFVHVkxTMThcU1lTVDpPVVRET09SX1RFTVAz'
 webID_pressure = 'F1DPqtKYo_aVKU65kQXapRFORQr6UAAAVFVHVkxTMThcU1lTVDpPVVRET09SX1RFTVA1'
 webID_humidity = 'F1DPqtKYo_aVKU65kQXapRFORQrqUAAAVFVHVkxTMThcU1lTVDpPVVRET09SX1RFTVA0'
